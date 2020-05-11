@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "PS Helper by Amazekart",
+    "version": "1.0.0",
+    "description": "Eases Function for PS Preference filling",
+    "browser_action": {
+    },
+    "icons": {
+        "32": "icon.png",
+        "48": "icon.png",
+        "64": "icon.png",
+        "128": "icon.png"
+    },
+    "background": {
+        "scripts": ["script.js"]
+    },
+    "permissions": ["activeTab"]
+}
