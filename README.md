@@ -1,6 +1,6 @@
 # PS-Helper
 
-## Extension for helping students with filling PS preferences
+## Chrome-extension for helping students with filling PS preferences
 
 ### How to use it
 
