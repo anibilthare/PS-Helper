@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "PS Helper by Amazekart",
+    "name": "PS Helper",
     "version": "1.0.0",
     "description": "Eases Function for PS Preference filling",
     "browser_action": {
